@@ -2,7 +2,7 @@
 
 
 > ## Vertex and Edges creation for Graphs: :wink:
-
+``` js
 class Graph{
     constructor(){
         this.adjacencyList = {};
@@ -75,3 +75,18 @@ console.log(g.adjacencyList)
 //   Aspen: [ 'Dallas', 'Los Angeles' ],
 //   'Los Angeles': [ 'Aspen' ]
 // }
+
+```
+![edge_vertex](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/edge_vertex.png)
+![undirected](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/undirected.png)
+![directed](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/directed.png)
+![weighted_graph](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/weighted_graph.png)
+![adjacency_matrix](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/adjacency_matrix.png)
+![adjacency_list](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/adjacency_list.png)
+![adjacency_list_hash](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/adjacency_list_hash.png)
+![ad_list_matrix_bigO_1](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/ad_list_matrix_bigO_1.png)
+![ad_list_matrix_bigO_2](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/ad_list_matrix_bigO_2.png)
+![adding_edge](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/adding_edge.png)
+![removing_edge](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/removing_edge.png)
+![removing_vertex_1](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/removing_vertex_1.png)
+![removing_vertex_2](https://github.com/NoriKaneshige/Graphs_Vertex_and_Edge/blob/master/removing_vertex_2.png)
